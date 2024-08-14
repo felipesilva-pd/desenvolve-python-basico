@@ -1,5 +1,0 @@
-1. Leia e armazene o número n para multiplicar por 9; #ENTRADA
-2. Subtrair n-1 e armazenar o resultado como n1; #PROCESSAMENTO
-3. Subtrair 10-n e armazenar o resultado como n2; #PROCESSAMENTO
-4. Calcule (n1 * 10) + n2 e armazene como resultado r; #PROCESSAMENTO
-5. Mostre r e encerre o processamento; #SAIDA
