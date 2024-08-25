@@ -1,0 +1,2 @@
+n1, n2 = int(input('Digite o número: ')), int(input('Digite o número: ')) # Entrada dos números
+print('O número é par!') if (n1 + n2) % 2 == 0 else print('O número é impar!') # Imprime par ou impar de acordo com a condição
